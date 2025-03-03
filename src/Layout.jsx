@@ -4,7 +4,7 @@ import "./index.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Portfolio SPA",
+  title: "John Paul Batusan Portfolio",
   description: "A single page application portfolio with smooth scrolling",
 }
 
