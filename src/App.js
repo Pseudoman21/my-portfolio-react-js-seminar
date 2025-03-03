@@ -1,9 +1,6 @@
 'use client'
 
 import { useEffect, useRef } from 'react'
-import { ChevronDown, Mail, Github, Linkedin } from 'lucide-react'
-import { Button } from './components/Button'
-import Progress from './components/Progress'
 import { ProfileSection } from './components/ProfileSection'
 import { HobbiesSection } from './components/HobbiesSection'
 import { Skills } from './components/Skills'
